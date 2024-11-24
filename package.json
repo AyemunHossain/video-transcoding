@@ -1,0 +1,26 @@
+{
+  "name": "video-transcoding",
+  "version": "1.0.0",
+  "description": "",
+  "main": "action.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AyemunHossain/video-transcoding.git"
+  },
+  "keywords": [
+    "video-transcoding",
+    "nodej-video-process"
+  ],
+  "author": "github.com/ayemunhossain",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AyemunHossain/video-transcoding/issues"
+  },
+  "homepage": "https://github.com/AyemunHossain/video-transcoding#readme",
+  "dependencies": {
+    "fluent-ffmpeg": "^2.1.3"
+  }
+}
